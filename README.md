@@ -5,9 +5,9 @@
 - I use https://newsapi.org site for network queries.
 
 - I divided the network layer into three parts for the ease of understanding. These are: 
-   - Network Service
-   - DataRequest
-   - ErrorResponse
+   - NetworkService  -->  Handles API requests.
+   - DataRequest     -->  Prototype for sending data into NetworkService.
+   - ErrorResponse   -->  Handles general error conditions.
    
 
 
