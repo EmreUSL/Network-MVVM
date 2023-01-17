@@ -10,6 +10,8 @@
    - ErrorResponse   -->  Handles general error conditions.
    
    
+   #Screen View
+   
    
       <img src="https://user-images.githubusercontent.com/109242794/213015934-46ced327-c8c4-4f54-82e6-e9e366f3374a.png" style="float:center" alt="app photo" width="250"/>
 
